@@ -1,51 +1,51 @@
-Country,New_cases,New_deaths,Death_percentage
-South Africa,3996441,101859,2.55
-Ethiopia,489846,7548,1.54
-Réunion,422769,812,0.19
-Kenya,335092,5659,1.69
-Zambia,326300,4008,1.23
-Botswana,323327,2752,0.85
-Algeria,266181,6875,2.58
-Nigeria,257637,3144,1.22
-Zimbabwe,255755,5558,2.17
-Mauritius,231036,1003,0.43
-Mozambique,228404,2214,0.97
-Uganda,167092,3621,2.17
-Ghana,166546,1452,0.87
-Namibia,166224,4065,2.45
-Rwanda,131308,1459,1.11
-Cameroon,120068,1931,1.61
-Angola,101320,1900,1.88
-Democratic Republic of the Congo,91393,1375,1.5
-Malawi,86576,2646,3.06
-Senegal,86411,1968,2.28
-Côte d’Ivoire,83823,805,0.96
-Eswatini,73177,1416,1.94
-Madagascar,65787,1401,2.13
-Cabo Verde,61105,406,0.66
-Mauritania,60368,984,1.63
-Gabon,47939,305,0.64
-Seychelles,45000,167,0.37
-Burundi,42836,15,0.04
-Mayotte,37958,187,0.49
-Togo,37493,275,0.73
-Guinea,37123,443,1.19
-United Republic of Tanzania,35768,841,2.35
-Lesotho,33938,699,2.06
-Mali,31181,737,2.36
-Benin,27216,163,0.6
-Congo,24421,386,1.58
-Burkina Faso,21044,387,1.84
-South Sudan,17733,138,0.78
-Equatorial Guinea,16191,183,1.13
-Central African Republic,14675,113,0.77
-Gambia,12009,365,3.04
-Eritrea,9811,103,1.05
-Niger,9031,310,3.43
-Guinea-Bissau,8391,171,2.04
-Comoros,8161,160,1.96
-Sierra Leone,7704,125,1.62
-Liberia,7500,294,3.92
-Chad,7426,193,2.6
-Sao Tome and Principe,6064,74,1.22
-Saint Helena,0,0,
+,Country,New_cases,New_deaths,Death_percentage
+0,South Africa,4072533,102595,2.52
+1,Ethiopia,500633,7573,1.51
+2,RÃ©union,494595,921,0.19
+3,Zambia,343415,4057,1.18
+4,Kenya,342983,5688,1.66
+5,Botswana,329830,2795,0.85
+6,Mauritius,297760,1044,0.35
+7,Algeria,271592,6881,2.53
+8,Nigeria,266665,3155,1.18
+9,Zimbabwe,264555,5681,2.15
+10,Mozambique,233334,2242,0.96
+11,Ghana,171527,1462,0.85
+12,Namibia,171222,4090,2.39
+13,Uganda,170510,3632,2.13
+14,Rwanda,133194,1468,1.1
+15,Cameroon,124834,1970,1.58
+16,Angola,105331,1934,1.84
+17,Democratic Republic of the Congo,95944,1464,1.53
+18,Senegal,88978,1971,2.22
+19,Malawi,88616,2686,3.03
+20,CÃ´te dâ€™Ivoire,88303,834,0.94
+21,Eswatini,74323,1425,1.92
+22,Madagascar,68049,1424,2.09
+23,Mauritania,63515,997,1.57
+24,Cabo Verde,63260,413,0.65
+25,Burundi,53706,15,0.03
+26,Seychelles,50937,172,0.34
+27,Gabon,48981,306,0.62
+28,United Republic of Tanzania,42959,846,1.97
+29,Mayotte,42008,187,0.45
+30,Togo,39450,290,0.74
+31,Guinea,38280,467,1.22
+32,Lesotho,34490,706,2.05
+33,Mali,33117,743,2.24
+34,Benin,27999,163,0.58
+35,Congo,25175,389,1.55
+36,Burkina Faso,22056,396,1.8
+37,South Sudan,18368,138,0.75
+38,Equatorial Guinea,17130,183,1.07
+39,Central African Republic,15367,113,0.74
+40,Gambia,12598,372,2.95
+41,Eritrea,10189,103,1.01
+42,Niger,9513,315,3.31
+43,Guinea-Bissau,9350,176,1.88
+44,Comoros,9089,160,1.76
+45,Liberia,8090,294,3.63
+46,Sierra Leone,7762,125,1.61
+47,Chad,7695,194,2.52
+48,Sao Tome and Principe,6500,79,1.22
+49,"Saint Helena, Ascension and Tristan da Cunha",2166,0,0.0
