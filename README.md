@@ -26,6 +26,10 @@ ___FEATURE ENGINEERED SOME NEW COLUMNS NECCESARY FOR MY ANALYSIS___
 ![](images/feature_engr3.png)
 ___EXPORTING DATASET TO POWER BI___
 ![](images/export_df.png)
+___DAX / MEASURES CREATED___
+![](images/measure1.png)
+___
+![](images/measure2.png)
 ___
 ## DATA MODELLING
 ___
@@ -37,8 +41,23 @@ ___
 This analysis contains just one report or dashboard page;  
 ___DASHBOARD___
 ![](images/dashboard.png)
-* View Full Interactive Report/Dashboard [Here.](https://app.powerbi.com/view?r=eyJrIjoiNTM5OGQzMTMtMGEyZC00MGZjLTg4MTAtZWUxMDE4OGUzMjI1IiwidCI6ImQyMzQyMjIxLWJiM2ItNGQ1ZS04NWRmLTkyYzFlOTg0YTNlZCJ9)
-
+___View Full Interactive Report/Dashboard [Here.](https://app.powerbi.com/view?r=eyJrIjoiNTM5OGQzMTMtMGEyZC00MGZjLTg4MTAtZWUxMDE4OGUzMjI1IiwidCI6ImQyMzQyMjIxLWJiM2ItNGQ1ZS04NWRmLTkyYzFlOTg0YTNlZCJ9)___
+##### From the dashboard we can see that;
+* 50 African countries were used for this analysis..
+* **10 million** recorded cases.
+* **175,000+** deaths were recorded sadly.  
+* Africa was affected more between **January 2021** - **January 2022**
+![](images/total_deaths.png)
+___Top 5 affected countries.___
+![](images/top_5.png)
+* With **South Africa** recording the highest number of cases and fatalities.
+![](images/sa.png)
+* By **2023** there has been a significant decline in the number of cases and fatalities, but **Zimbabwe** in this case is recording more deaths.
+![](images/2023.png)
 ___
 ## CONCLUSIONS & RECCOMMENDATIONS
 ___
+This was a very simple analysis and it helped me gain insight on how COVID-19 has affected the continent because I have always wanted to know how much it affected Africa as compared to other continents, with this I can say not so much but every life is important and my deepest condolonce to all those affected.  
+___RECCOMMENDATION___
+* From the simple analysis I carried out, **South Africa** is the country mostly affected and I think they should have a much more strict COVID-19 policy in place.
+### THANK YOU FOR TAKING THE TIME TO GO THROUGH THIS REPORT
